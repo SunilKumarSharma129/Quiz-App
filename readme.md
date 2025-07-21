@@ -38,4 +38,4 @@ HTML, CSS, JavaScript
 
 ## Author
 
-- [@SunilKumarSharma129](https://www.github.com/SunilKumarSharma129
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
