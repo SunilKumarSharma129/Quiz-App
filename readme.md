@@ -1,6 +1,6 @@
 #  Quiz App
 
-A simple and interactive quiz web application that lets users test their knowledge across various categories. The app presents multiple-choice questions, tracks the score. It’s designed to be responsive, user-friendly, and fun to use.
+A simple and interactive quiz web application that lets users test their knowledge across various categories. The app presents multiple-choice questions and tracks the score. It’s designed to be responsive, user-friendly, and fun to use. 
 
 
 
