@@ -32,7 +32,7 @@ HTML, CSS, JavaScript
 ![images](./images/image-03.jpeg)
 ![images](./images/image-04.jpeg)
 ![images](./images/image-05.jpeg)
-![images](./images/image-06.jpeg)
+![images](./images/image-06.jpeg) 
 
 
 
